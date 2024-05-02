@@ -37,3 +37,15 @@ monitors:
     url: 'https://blog.cloudflare.com/'
     method: GET
     expectStatus: 200
+
+  - id: ebook.endao.co
+    name: ebook.endao.co
+    url: 'https://ebook.endao.co/'
+    method: GET
+    expectStatus: 200
+    
+  - id: i.hisbook.cc
+    name: i.hisbook.cc
+    url: 'https://i.hisbook.cc/'
+    method: GET
+    expectStatus: 200
